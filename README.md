@@ -4,6 +4,8 @@
 
 <hr/>
 
+![Screenshot](https://github.com/madhvsvdan/mark01/blob/main/01.png?raw=true)
+
 [Live demo of the app](https://replit.com/@madhvsvdan/mark01)
 
 <hr/>
